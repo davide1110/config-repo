@@ -1,3 +1,2 @@
-info:
-  description: aoooooo
-  url: https://github.com/spring-cloud-samples
+limits-service:
+  min: 2
